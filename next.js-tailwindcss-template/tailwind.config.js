@@ -1,11 +1,18 @@
+const { fontFamily } = require("tailwindcss/defaultTheme");
+
 module.exports = {
-  purge: [],
+  mode: "jit",
+  purge: ["./src/pages/**/*.{js,jsx}", "./src/components/**/*.{js,jsx}"],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ["Inter", ...fontFamily.sans],
+      },
+    },
   },
   variants: {
     extend: {},
   },
   plugins: [],
-}
+};
