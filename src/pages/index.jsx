@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 import { useTheme } from "next-themes";
+import { NextSeo } from "next-seo";
 
 const Home = () => {
   const { resolvedTheme, setTheme } = useTheme();
@@ -12,6 +13,8 @@ const Home = () => {
 
   return (
     <>
+      <NextSeo title="Home" />
+
       <section>
         <div className="py-20 flex flex-col items-center justify-center">
           <h1 className="text-5xl text-center text-gray-800 dark:text-gray-100 font-bold">
