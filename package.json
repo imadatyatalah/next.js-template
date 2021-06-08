@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint . --ext .js,.jsx"
+    "lint": "eslint . --ext .js,.jsx",
+    "prettier-format": "npx prettier --write .",
+    "prettier-check": "npx prettier --check ."
   },
   "dependencies": {
     "next": "10.2.3",
