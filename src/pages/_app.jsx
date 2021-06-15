@@ -6,10 +6,10 @@ import { ThemeProvider } from "next-themes";
 import { DefaultSeo } from "next-seo";
 import NProgress from "nprogress";
 
-import SEO from "../../next-config.config";
+import SEO from "next-seo.config";
 
 import "nprogress/nprogress.css";
-import "../styles/globals.css";
+import "@/styles/globals.css";
 
 Router.events.on("routeChangeStart", () => {
   NProgress.start();
