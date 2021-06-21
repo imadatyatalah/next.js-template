@@ -31,30 +31,22 @@ After a couple of Next.js projects I found that I'm repeating myself and spendin
 
 ## Getting Started
 
-1. Fork/Click "Use this template" button and clone the project
+Create a new application using `create-next-app` with the `-e | --example` flag pointing to this repository's _url_, like so:
 
-If you've forked the template:
-
-```
-git clone https://github.com/your-username/next.js-tailwindcss-template.git
+```bash
+npx create-next-app@latest --example https://github.com/imadatyatalah/next.js-tailwindcss-template
 ```
 
-If you've clicked "Use this template" button:
+> **Tip:** You can find `create-next-app`'s documentation at [https://nextjs.org/docs/api-reference/create-next-app](https://nextjs.org/docs/api-reference/create-next-app).
 
-```
-git clone https://github.com/your-username/repo-name.git
-```
+You can also click on the `Use this template` button.
 
-2. Start developing.
+After that, clone the repository that was created on your account and follow the steps below:
 
-```
-cd repo-name
+```bash
+# Installing project dependencies
 npm install
-```
-
-After installing project's dependencies, Start development server
-
-```
+# Starting the project
 npm run dev
 ```
 
