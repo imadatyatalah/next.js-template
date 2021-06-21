@@ -12,7 +12,8 @@
 
 <div align="center">
 
-[![MIT License](https://img.shields.io/github/license/imadatyatalah/next.js-tailwindcss-template?color=brightgreen&style=for-the-badge)](https://github.com/imadatyatalah/next.js-tailwindcss-template/blob/main/LICENSE)
+[![CodeFactor](https://www.codefactor.io/repository/github/imadatyatalah/next.js-tailwindcss-template/badge?style=for-the-badge)](https://www.codefactor.io/repository/github/imadatyatalah/next.js-tailwindcss-template)
+[![MIT License](https://img.shields.io/github/license/imadatyatalah/next.js-tailwindcss-template?color=blue&style=for-the-badge)](https://github.com/imadatyatalah/next.js-tailwindcss-template/blob/main/LICENSE)
 [![Stargazers](https://img.shields.io/github/stars/imadatyatalah/next.js-tailwindcss-template?style=for-the-badge)](https://github.com/imadatyatalah/next.js-tailwindcss-template/stargazers)
 [![Forks](https://img.shields.io/github/forks/imadatyatalah/next.js-tailwindcss-template?style=for-the-badge)](https://github.com/imadatyatalah/next.js-tailwindcss-template/network/members)
 
