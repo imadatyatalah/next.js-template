@@ -30,6 +30,13 @@ After a couple of Next.js projects I found that I'm repeating myself and spendin
 - [Next Themes](https://github.com/pacocoursey/next-themes)
 - [Next SEO](https://github.com/garmeeh/next-seo)
 
+### Features
+
+- Dark Mode ready.
+- Supports absolute imports.
+- SEO friendly.
+- Self-hosted Inter font & cashed by [Vercel](https://vercel.com/).
+
 ## Getting Started
 
 Create a new application using `create-next-app` with the `-e | --example` flag pointing to this repository's _url_, like so:
