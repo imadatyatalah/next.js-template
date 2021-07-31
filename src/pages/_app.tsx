@@ -1,6 +1,6 @@
-/* eslint-disable react/prop-types */
 import React from "react";
 import Router from "next/router";
+import type { AppProps } from "next/app";
 
 import { ThemeProvider } from "next-themes";
 import { DefaultSeo } from "next-seo";
@@ -19,13 +19,10 @@ Router.events.on("routeChangeError", () => NProgress.done());
 
 NProgress.configure({ showSpinner: false });
 
-const MyApp = ({ Component, pageProps }) => {
+const MyApp = ({ Component, pageProps }: AppProps) => {
   return (
     <>
-      <ThemeProvider
-        attribute="class"
-        forcedTheme={Component.theme || undefined}
-      >
+      <ThemeProvider defaultTheme="system" attribute="class">
         <DefaultSeo {...SEO} />
         <Component {...pageProps} />
       </ThemeProvider>

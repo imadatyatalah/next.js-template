@@ -1,8 +1,13 @@
+/* eslint @typescript-eslint/no-var-requires: "off" */
+
 const { fontFamily } = require("tailwindcss/defaultTheme");
 
 module.exports = {
   mode: "jit",
-  purge: ["./src/pages/**/*.{js,jsx}", "./src/components/**/*.{js,jsx}"],
+  purge: [
+    "./src/pages/**/*.{js,jsx,ts,tsx}",
+    "./src/components/**/*.{js,jsx,ts,tsx}",
+  ],
   darkMode: "class",
   theme: {
     extend: {
