@@ -21,7 +21,7 @@
 
 ## About The Project
 
-After a couple of Next.js projects, I found that I'm repeating myself and spending too much time just to setup a new Next.js project, That's where the idea of this template came from, I wanted to help you and myself to not spend much time to setup a new project and focus on the project/idea itself.
+After a couple of Next.js projects, I found that I'm spending much time just to setup a new Next.js project, That's why I created this template, Fell free to use it and give me your feedback!
 
 ### Built With
 
