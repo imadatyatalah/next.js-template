@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home should match snapshot 1`] = `
+<section
+  data-testid="home-page"
+>
+  <div
+    class="flex flex-col items-center justify-center py-20"
+  >
+    <h1
+      class="text-5xl font-bold text-center text-gray-800 dark:text-gray-100"
+    >
+      Next Themes + Tailwind Dark Mode
+    </h1>
+    <button
+      class="px-4 py-2 mt-16 font-semibold text-white bg-black rounded-md dark:text-black dark:bg-white"
+    >
+      Change Theme
+    </button>
+  </div>
+</section>
+`;
