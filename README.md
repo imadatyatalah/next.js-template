@@ -30,14 +30,18 @@ After a couple of Next.js projects, I found that I'm spending much time just to 
 - [TailwindCSS](https://tailwindcss.com/)
 - [Next Themes](https://github.com/pacocoursey/next-themes)
 - [Next SEO](https://github.com/garmeeh/next-seo)
+- [Jest](https://jestjs.io/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 ### Features
 
 - TypeScript ready.
+- ESLint ready.
 - Dark Mode ready.
 - Supports absolute imports.
 - SEO friendly.
 - Self-hosted Inter font & cashed by [Vercel](https://vercel.com/).
+- Testing with Jest and React Testing Library.
 
 ## Getting Started
 
