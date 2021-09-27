@@ -25,7 +25,7 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.1.0",
     "@types/nprogress": "^0.2.0",
-    "@types/react": "^17.0.19",
+    "@types/react": "^17.0.24",
     "@typescript-eslint/eslint-plugin": "^4.29.3",
     "@typescript-eslint/parser": "^4.29.3",
     "autoprefixer": "^10.3.4",
