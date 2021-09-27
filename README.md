@@ -39,6 +39,10 @@ After a couple of Next.js projects, I found that I'm spending much time just to 
 - SEO friendly.
 - Self-hosted Inter font & cashed by [Vercel](https://vercel.com/).
 
+### Screenshot
+
+![Screenshot](./screenshot.png)
+
 ## Getting Started
 
 Create a new application using `create-next-app` with the `-e | --example` flag pointing to this repository's _url_, like so:
