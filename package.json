@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "postbuild": "next-sitemap --config next-sitemap.js",
-    "lint": "eslint . --ext .js,.jsx",
+    "lint": "eslint . --ext .js,.ts,.jsx,.tsx",
     "prettier-format": "npx prettier --write .",
     "prettier-check": "npx prettier --check .",
     "test": "jest --watch",
