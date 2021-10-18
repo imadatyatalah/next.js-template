@@ -37,7 +37,7 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "husky": "^7.0.2",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^27.2.2",
+    "jest": "^27.3.0",
     "next-sitemap": "^1.6.168",
     "postcss": "^8.3.8",
     "prettier": "2.4.1",
