@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "postbuild": "next-sitemap --config next-sitemap.js",
-    "lint": "eslint . --ext .js,.jsx",
+    "lint": "eslint . --ext .js,.ts,.jsx,.tsx",
     "prettier-format": "npx prettier --write .",
     "prettier-check": "npx prettier --check .",
     "test": "jest --watch",
@@ -15,7 +15,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "next": "11.1.2",
+    "next": "^12.0.0",
     "next-seo": "^4.28.1",
     "next-themes": "^0.0.15",
     "nprogress": "^0.2.0",
