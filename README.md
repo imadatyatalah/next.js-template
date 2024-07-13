@@ -38,7 +38,6 @@ After a couple of Next.js projects, I found that I'm spending much time just to 
 - Dark Mode ready.
 - Supports absolute imports.
 - SEO friendly.
-- Self-hosted Inter font & cashed by [Vercel](https://vercel.com/).
 
 ### Screenshot
 
@@ -64,9 +63,9 @@ After that, clone the repository that was created on your account and follow the
 
 ```bash
 # Installing project dependencies
-npm install
+pnpm i
 # Starting the project
-npm run dev
+pnpm dev
 ```
 
 Your site is now running at [`http://localhost:3000`](http://localhost:3000)!
