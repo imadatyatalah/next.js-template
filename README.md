@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://next-js-tailwindcss-template.vercel.app/">View Demo</a>
+<a href="https://template.imadatyat.me">View Demo</a>
 ·
 <a href="https://github.com/imadatyatalah/next.js-template/issues">Report Bug or Request Feature</a>
 
