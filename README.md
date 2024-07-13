@@ -4,32 +4,29 @@
 
 <a href="https://next-js-tailwindcss-template.vercel.app/">View Demo</a>
 ·
-<a href="https://github.com/imadatyatalah/next.js-tailwindcss-template/issues">Report Bug</a>
-·
-<a href="https://github.com/imadatyatalah/next.js-tailwindcss-template/issues">Request Feature</a>
+<a href="https://github.com/imadatyatalah/next.js-template/issues">Report Bug or Request Feature</a>
 
 </div>
 
 <div align="center">
 
-[![CodeFactor](https://www.codefactor.io/repository/github/imadatyatalah/next.js-tailwindcss-template/badge?style=for-the-badge)](https://www.codefactor.io/repository/github/imadatyatalah/next.js-tailwindcss-template)
-[![MIT License](https://img.shields.io/github/license/imadatyatalah/next.js-tailwindcss-template?color=blue&style=for-the-badge)](https://github.com/imadatyatalah/next.js-tailwindcss-template/blob/main/LICENSE)
-[![Stargazers](https://img.shields.io/github/stars/imadatyatalah/next.js-tailwindcss-template?style=for-the-badge)](https://github.com/imadatyatalah/next.js-tailwindcss-template/stargazers)
-[![Forks](https://img.shields.io/github/forks/imadatyatalah/next.js-tailwindcss-template?style=for-the-badge)](https://github.com/imadatyatalah/next.js-tailwindcss-template/network/members)
+[![MIT License](https://img.shields.io/github/license/imadatyatalah/next.js-template?color=blue&style=for-the-badge)](https://github.com/imadatyatalah/next.js-template/blob/main/LICENSE)
+[![Stargazers](https://img.shields.io/github/stars/imadatyatalah/next.js-template?style=for-the-badge)](https://github.com/imadatyatalah/next.js-template/stargazers)
+[![Forks](https://img.shields.io/github/forks/imadatyatalah/next.js-template?style=for-the-badge)](https://github.com/imadatyatalah/next.js-template/network/members)
 
 </div>
 
 ## About The Project
 
-After a couple of Next.js projects, I found that I'm spending much time just to setup a new Next.js project, That's why I created this template, Fell free to use it and give me your feedback!
+After a couple of Next.js projects, I found that I'm spending too much time setting up new ones, That's why I created this template, Fell free to use it and give me your feedback!
 
 ### Built With
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [Next.js](https://nextjs.org/)
-- [TailwindCSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org)
+- [Next.js](https://nextjs.org)
+- [Tailwind CSS](https://tailwindcss.com)
 - [Next Themes](https://github.com/pacocoursey/next-themes)
-- [Next SEO](https://github.com/garmeeh/next-seo)
+- [shadcn/ui](https://ui.shadcn.com)
 
 ### Features
 
@@ -45,17 +42,17 @@ After a couple of Next.js projects, I found that I'm spending much time just to 
 
 ## Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fimadatyatalah%2Fnext.js-tailwindcss-template&demo-title=Next.js%20and%20TailwindCSS%20template.%20&demo-description=After%20a%20couple%20of%20Next.js%20projects%2C%20I%20found%20that%20I'm%20spending%20much%20time%20just%20to%20setup%20a%20new%20Next.js%20project%2C%20That's%20why%20I%20created%20this%20template%2C%20Fell%20free%20to%20use%20it%20and%20give%20me%20your%20feedback!&demo-url=https%3A%2F%2Fnext-js-tailwindcss-template.vercel.app&demo-image=https%3A%2F%2Fraw.githubusercontent.com%2Fimadatyatalah%2Fnext.js-tailwindcss-template%2Fmain%2Fscreenshot.png)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fimadatyatalah%2Fnext.js-template)
 
 ## Getting Started
 
 Create a new application using `create-next-app` with the `-e | --example` flag pointing to this repository's _url_, like so:
 
 ```bash
-npx create-next-app@latest --example https://github.com/imadatyatalah/next.js-tailwindcss-template
+npx create-next-app@latest --example https://github.com/imadatyatalah/next.js-template
 ```
 
-> **Tip:** You can find `create-next-app`'s documentation at [https://nextjs.org/docs/api-reference/create-next-app](https://nextjs.org/docs/api-reference/create-next-app).
+> **Tip:** You can find `create-next-app`'s documentation at [https://nextjs.org/docs/app/api-reference/create-next-app](https://nextjs.org/docs/app/api-reference/create-next-app).
 
 You can also click on the `Use this template` button.
 
@@ -72,4 +69,4 @@ Your site is now running at [`http://localhost:3000`](http://localhost:3000)!
 
 ## License
 
-Distributed under the MIT License. See [`LICENSE`](https://github.com/imadatyatalah/next.js-tailwindcss-template/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/imadatyatalah/next.js-template/blob/main/LICENSE) for more information.
